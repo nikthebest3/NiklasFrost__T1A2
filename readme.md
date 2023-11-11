@@ -8,15 +8,15 @@ Have included Media, functioning buttons to take you to the Socials, About and C
 
 ### Link to Published website:
 
-https://niklas-frost-portfolio.netlify.app/
+https://niklasfrost-portfolio.netlify.app/
 
 #### Link to GitHub Repo:
 
-https://github.com/nikthebest3/NiklasFrost_T1A2
+https://github.com/nikthebest3/NiklasFrost__T1A2
 
 ##### Link to published video about website:
 
-https://youtu.be/bnuTDW6OqYg - Unlisted video, Link will work if you copy and paste.
+- Unlisted video, Link will work if you copy and paste.
 
 ###### Description of Porfolio:
 
